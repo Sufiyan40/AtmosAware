@@ -63,8 +63,8 @@ Scan the QR code with your mobile device to download and install the app.
 ### 6️⃣ View Weather Information
  Open the app on your mobile device or emulator.
 
- Enter a city name or location.
- The app will fetch and display the weather information for that location.
+- Enter a city name or location.
+ -The app will fetch and display the weather information for that location.
 
 
 
