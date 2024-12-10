@@ -27,11 +27,4 @@ cd AtmosAware
  2. Navigate to File > Open.
  3. Select the cloned project folder and wait for Gradle to sync.
 
-###3️⃣ Configure the API Key
-Open the following file in a text editor or via Android Studio:
-res/values/strings.xml
-
- Add your weather API key in the following format:
-<string name="api_key">YOUR_API_KEY</string>
-
- Replace YOUR_API_KEY with a valid API key from a weather service (e.g., OpenWeatherMap).
+### 3️⃣ Configure the API Key
