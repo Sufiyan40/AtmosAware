@@ -38,7 +38,7 @@ res/values/strings.xml
  ```
 <string name="api_key">YOUR_API_KEY</string>
 ```
- Replace YOUR_API_KEY with a valid API key from a weather service (e.g., OpenWeatherMap).
+Replace YOUR_API_KEY with a valid API key from a weather service (e.g., OpenWeatherMap).
 ---
 
 ### 4️⃣ Run the Application
@@ -56,6 +56,7 @@ res/values/strings.xml
 qrencode -o app-qr.png "https://link-to-your-apk-file"
 
 Scan the QR code with your mobile device to download and install the app.
+---
 
 
 
