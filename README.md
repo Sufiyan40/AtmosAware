@@ -72,21 +72,24 @@ Scan the QR code with your mobile device to download and install the app.
 
 - Here's the folder structure of the project:
 
+```bash
 AtmosAware/
-├── .gradle/                # Gradle build files
-├── .idea/                  # Android Studio project files
-├── app/                    # Main app module
+├── .gradle/               # Gradle build files
+├── .idea/                 # Android Studio project files
+├── app/                   # Main app module
 │   ├── src/
-│   │   ├── main/           # Application source code
-│   │   │   ├── java/       # Kotlin files
-│   │   │   ├── res/        # Resources (layouts, images, etc.)
+│   │   ├── main/          # Application source code
+│   │   │   ├── java/      # Kotlin files
+│   │   │   ├── res/       # Resources (layouts, images, etc.)
 │   │   │   └── AndroidManifest.xml
-│   │   ├── androidTest/    # Instrumented tests
-│   │   └── test/           # Unit tests
-├── gradle/                 # Gradle wrapper files
-├── build.gradle            # Project-level Gradle build file
-├── settings.gradle         # Settings file
-└── gradlew/gradlew.bat     # Gradle wrapper scripts
+│   │   ├── androidTest/   # Instrumented tests
+│   │   └── test/          # Unit tests
+├── gradle/                # Gradle wrapper files
+├── build.gradle           # Project-level Gradle build file
+├── settings.gradle        # Settings file
+├── gradlew                # Gradle wrapper script (Unix)
+└── gradlew.bat            # Gradle wrapper script (Windows)
+
 
 
 
