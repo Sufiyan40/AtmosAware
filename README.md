@@ -30,15 +30,15 @@ cd AtmosAware
 ---
 
 ### 3️⃣ Configure the API Key
- Open the following file in a text editor or via Android Studio:
+- Open the following file in a text editor or via Android Studio:
 ```
 res/values/strings.xml
 ```
- Add your weather API key in the following format:
+- Add your weather API key in the following format:
  ```
 <string name="api_key">YOUR_API_KEY</string>
 ```
-Replace YOUR_API_KEY with a valid API key from a weather service (e.g., OpenWeatherMap).
+- Replace YOUR_API_KEY with a valid API key from a weather service (e.g., OpenWeatherMap).
 
 ---
 
@@ -52,8 +52,8 @@ Replace YOUR_API_KEY with a valid API key from a weather service (e.g., OpenWeat
  1. In Android Studio, go to Build > Build Bundle(s)/APK(s) > Build APK.
  2. The APK will be generated in the 'app/build/outputs/apk' directory.
 
- Create a QR code for the APK file:
- Use an online QR code generator or tools like qrencode (CLI):
+ - Create a QR code for the APK file:
+ - Use an online QR code generator or tools like qrencode (CLI):
 qrencode -o app-qr.png "https://link-to-your-apk-file"
 
 Scan the QR code with your mobile device to download and install the app.
