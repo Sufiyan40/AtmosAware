@@ -101,6 +101,12 @@ The application uses the following dependencies:
 ---
 ### 🔮 Future Enhancements
 
+- Offline Support: Enable the app to function without an internet connection by caching data.
+- Location-Based Weather Detection: Automatically detect and display weather for the user's current location.
+- UI/UX Improvements: Enhance the design and usability of the app to make it more engaging
+
+---
+
 
 
 
