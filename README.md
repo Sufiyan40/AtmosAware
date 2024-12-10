@@ -89,6 +89,9 @@ AtmosAware/
 ├── settings.gradle        # Settings file
 ├── gradlew                # Gradle wrapper script (Unix)
 └── gradlew.bat            # Gradle wrapper script (Windows)
+```
+---
+### 📦 Dependencies
 
 
 
