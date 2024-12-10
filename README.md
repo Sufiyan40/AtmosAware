@@ -98,6 +98,9 @@ The application uses the following dependencies:
 - Glide: For loading weather icons and images efficiently.
 - Material Design Components: For a modern, intuitive UI experience.
 
+---
+### 🔮 Future Enhancements
+
 
 
 
