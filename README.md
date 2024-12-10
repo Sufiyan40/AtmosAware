@@ -92,6 +92,11 @@ AtmosAware/
 ```
 ---
 ### 📦 Dependencies
+The application uses the following dependencies:
+
+- Retrofit: For making API calls to fetch weather data.
+- Glide: For loading weather icons and images efficiently.
+- Material Design Components: For a modern, intuitive UI experience.
 
 
 
