@@ -42,7 +42,7 @@ res/values/strings.xml
  1. Connect your Android device via USB or use an emulator.
  2. In Android Studio, click the Run button or use the shortcut: ```Shift + F10```
 
-###5️⃣ Download the App on Mobile (Optional)
+### 5️⃣ Download the App on Mobile (Optional)
 
 
 
