@@ -60,7 +60,7 @@ Scan the QR code with your mobile device to download and install the app.
 
 ---
 
-###6️⃣ View Weather Information
+### 6️⃣ View Weather Information
 
 
 
