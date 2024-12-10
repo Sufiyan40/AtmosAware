@@ -39,3 +39,6 @@ res/values/strings.xml
  Replace YOUR_API_KEY with a valid API key from a weather service (e.g., OpenWeatherMap).
 
 ### 4️⃣ Run the Application
+ Connect your Android device via USB or use an emulator.
+ In Android Studio, click the Run button or use the shortcut: ```Shift + F10```
+
