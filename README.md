@@ -38,5 +38,4 @@ res/values/strings.xml
 ```
  Replace YOUR_API_KEY with a valid API key from a weather service (e.g., OpenWeatherMap).
 
- ###4️⃣ Run the Application
- 
+### 4️⃣ Run the Application
