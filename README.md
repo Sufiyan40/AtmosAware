@@ -20,3 +20,9 @@ Use the following commands to clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/AtmosAware.git
 cd AtmosAware
+```
+### 2️⃣ Open in Android Studio
+# Launch Android Studio (no specific CLI command, follow GUI steps):
+# 1. Open Android Studio.
+# 2. Navigate to File > Open.
+# 3. Select the cloned project folder and wait for Gradle to sync.
