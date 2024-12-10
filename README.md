@@ -66,6 +66,10 @@ Scan the QR code with your mobile device to download and install the app.
 - Enter a city name or location.
 - The app will fetch and display the weather information for that location.
 
+---
+
+### 📂 Project Structure
+
 
 
 
